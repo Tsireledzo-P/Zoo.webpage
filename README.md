@@ -1,25 +1,26 @@
 As apart of the FNB App Academy we had to create this website in week 3.
+
 Zoo Webpage
-Welcome to the Zoo Webpage project — a static HTML-based website that offers an interactive tour of a fictional zoo. 1
-This project includes individual pages for various animals, attractions, and amenities within the zoo, designed to provide an engaging and educational online zoo experience.
+A static, multi-page website that simulates a virtual zoo experience. This project showcases a collection of HTML pages representing various zoo attractions, animal exhibits, and visitor amenities. Ideal for educational demonstrations, portfolio projects, or mock website development.
 
-🌐 Live Preview
-You can open `index.html` in a browser to begin exploring the zoo experience locally.
+📸 Overview
+The Zoo Webpage provides a structured, browser-based tour of a fictional zoo. Each page is designed to highlight a specific section of the zoo, from animal enclosures to dining areas and visitor feedback forms.
 
-📁 Project Structure
+🌍 Project Structure
+
 Zoo.webpage/
-├── index.html                # Home page
-├── animals.html             # Overview of animals in the zoo
-├── feedback.html            # Visitor feedback form
-├── places.html              # List of various zoo attractions
-├── resturant.html           # Dining information
-├── pizzashop.html
-├── coffeeshop.html
-├── amphitheatre.html
-├── insecthouse.html
-├── monkeytrail.html
-├── lostforest.html
-├── elephant.html            # Individual animal pages
+├── index.html              # Landing page
+├── animals.html            # Overview of all animals
+├── feedback.html           # Visitor feedback form
+├── places.html             # Attractions and locations within the zoo
+├── resturant.html          # General dining page
+├── pizzashop.html          # Pizza shop page
+├── coffeeshop.html         # Coffee shop page
+├── amphitheatre.html       # Amphitheatre attraction
+├── insecthouse.html        # Insect house exhibit
+├── monkeytrail.html        # Monkey trail area
+├── lostforest.html         # Lost forest trail
+├── elephant.html           # Individual animal profile pages
 ├── giraffe.html
 ├── gorilla.html
 ├── koala.html
@@ -29,30 +30,39 @@ Zoo.webpage/
 ├── gemsbok.html
 └── .gitattributes
 
- 🛠️ Features
-- Static HTML structure for a zoo website
-- Individual pages for over a dozen animals and attractions
-- Feedback form (static)
-- Themed dining and entertainment pages
-- Great base for educational or demo purposes
 
 🚀 Getting Started
-1. Clone or download the repository.
-2. Open `Zoo.webpage/index.html` in your browser.
-3. Navigate the site as if you're touring a zoo!
+To run the website locally:
 
- 📚 Use Cases
-- Educational web demos
-- HTML learning projects
-- Mock zoo websites
-- Portfolio enhancement for frontend learners
+1. Download or clone this repository.
+2. Navigate to the `Zoo.webpage/` directory.
+3. Open `index.html` in any modern web browser.
 
- 🧰 Tech Stack
+No server or backend is required — the site runs entirely in the browser.
+
+✨ Features
+- Fully static and portable website
+- Over 15 unique pages representing different animals and areas of the zoo
+- Includes visitor-facing amenities such as restaurants and feedback forms
+- Clean HTML structure, suitable for learning and customization
+
+🛠 Technologies Used
 - HTML5
-- Basic CSS (if included – verify in `/Zoo.webpage` folder)
-- No frameworks or JavaScript dependencies
+- (Optional) Basic CSS (if included in future versions)
+
+Note: This project currently does not include JavaScript or external libraries.
+
+ 📚 Ideal For
+- Web development students and educators
+- Demonstrating basic multi-page site architecture
+- UI/UX mockups for zoo or park-themed sites
+- Static site prototyping
 
 📄 License
-This project is open source and available under the [MIT License](LICENSE), or modify this section depending on your actual license.
-Enjoy your virtual zoo experience! 🐘🦁🐼🦒
+This project is provided for educational and demonstration purposes. Please add a license file (e.g., MIT, GPL) if you intend to share or reuse this work publicly.
+
+🙋‍♀️ Contribution
+Pull requests and suggestions are welcome. If you plan to expand the site (e.g., add styling, interactivity, or backend integration), feel free to fork and enhance the project.
+
+🐾 Explore the zoo — all from your browser.
 
